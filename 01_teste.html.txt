@@ -1,0 +1,11 @@
+<h1>primeiro teste</h1>
+<h2>subtitulo</h2>
+<p> primeiro paragrafo</p>
+<i>italico</i>
+<b>negrito</b>
+<em> italico semantica</em>
+<strong>negrito semantica</strong>
+<p>clique aqui para ir para <a href="http://udemy.com">Udemy</a></p>
+<br>teste quebra de linha 1</br>
+<hr>teste quebra de linha 2</hr>
+
